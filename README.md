@@ -1,3 +1,4 @@
+<h1>
   <a href="https://www.linkedin.com/in/rashadhagen/">
     <img src="https://i.imgur.com/bYUDnOO.png" alt="LinkedIn" width="42px" />
   </a> 
